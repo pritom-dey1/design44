@@ -320,7 +320,12 @@ border-bottom: 2px solid black;
     width: 100%;
     height: 100vh;
     position: relative;
+    background-color: aqua;
     padding: 7vw 4vw;
+}
+.elem{
+    background-color: #0c0c0c;
+    width: 100vw;height: 7vh;
 }
 
 .marque h1{
